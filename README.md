@@ -63,9 +63,18 @@ Stock market prediction is the act of trying to determine the future value of a 
 
 ## **Phases Of Project**
 
+*0. [Data Collection]*
+
 *1. [Data Extraction](https://github.com/k4kiran/Stock-Market-Prediction/tree/master/Main_codes/Data%20extraction)*
 
-*2. [Sentiment Analysis](https://github.com/k4kiran/Stock-Market-Prediction/tree/master/Main_codes/Sentiment%20Analysis)*
+*2. [Data Preprocessing]*
 
+*3. [Sentiment Analysis](https://github.com/k4kiran/Stock-Market-Prediction/tree/master/Main_codes/Sentiment%20Analysis)*
+
+*4. [Stock data Collection]*
+
+*5. [Merging and Scaling]*
+
+*6. [Stock Price Prediction]*
 
 
