@@ -63,18 +63,18 @@ Stock market prediction is the act of trying to determine the future value of a 
 
 ## **Phases Of Project**
 
-*0. [Data Collection]*
+*0. [Data Collection](https://github.com/k4kiran/STOCK_TWEEZER/tree/master/Data%20Collection)*
 
-*1. [Data Extraction](https://github.com/k4kiran/Stock-Market-Prediction/tree/master/Main_codes/Data%20extraction)*
+*1. [Data Extraction](https://github.com/k4kiran/STOCK_TWEEZER/tree/master/Data%20Extraction)*
 
-*2. [Data Preprocessing]*
+*2. [Data Preprocessing](https://github.com/k4kiran/STOCK_TWEEZER/tree/master/Data%20Preprocessing)*
 
-*3. [Sentiment Analysis](https://github.com/k4kiran/Stock-Market-Prediction/tree/master/Main_codes/Sentiment%20Analysis)*
+*3. [Sentiment Analysis](https://github.com/k4kiran/STOCK_TWEEZER/tree/master/Sentiment%20Analysis)*
 
-*4. [Stock data Collection]*
+*4. [Stock data Collection](https://github.com/k4kiran/STOCK_TWEEZER/tree/master/Stock%20data%20Collection)*
 
-*5. [Merging and Scaling]*
+*5. [Merging and Scaling](https://github.com/k4kiran/STOCK_TWEEZER/tree/master/Merging%20and%20Scaling)*
 
-*6. [Stock Price Prediction]*
+*6. [Stock Price Prediction](https://github.com/k4kiran/STOCK_TWEEZER/tree/master/Stock%20Price%20Prediction)*
 
 
