@@ -1,0 +1,10 @@
+import pandas as pd
+df2 = pd.read_csv("scaledsentistock.csv")
+df2['Date'] = pd.to_datetime(df2['Date'])
+print(df2)
+df1 = pd.read_csv("MSFT.csv")
+df1['Date'] = pd.to_datetime(df1['Date'])
+print(df1)
+df3 = pd.merge(df1, df2, on="Date")
+print(df3)
+df3.to_csv("sentistock.csv")
